@@ -1,0 +1,122 @@
+
+
+#features{
+   text-align: center;
+}
+#features img{
+   margin: 0 0 20px;
+}
+
+
+
+.well .page-header{
+   margin-top:0;
+}
+.well .page-header h1{
+   margin-top: 0;
+}
+   .jumbotron{
+      margin-top: 10px;
+
+   }
+   .jumbotron img{
+      width:100%;
+      margin-right: 50px;
+      
+   }
+#searchInput{
+   width: 200px;
+   margin-left: 100px;
+
+
+} 
+.foot{
+   margin-top: 300px;
+   font-size: 20px;
+   text-align: center;
+   font-family: sans-serif;
+   font-weight: bold;
+   border-radius: 25px;
+   color: black;
+   background-image: url("http://www.townleygrammar.org.uk/media/38316/footer-4.jpg");
+height: 300px;
+width: 100%;
+
+}
+#main{
+background-color: cyan;
+}
+
+.navbar-brand{
+   padding: 13px 15px;
+   margin-left: 10px;
+   margin-top: 0;
+   
+} 
+.navbar-fixed-top{
+   background-color: #bfbbbb
+   ;
+}
+
+
+.dropdown {
+   margin-top: 0;
+}
+
+#searchInput1{
+   width: 150px;
+   
+}
+
+.carousel-caption{
+   font-size: 24px;
+   color:white;
+
+}
+.carousel-caption h1{
+   font-size: 32px;
+   color: black;
+
+}
+
+#myCarousel{
+   margin-top: 200px;
+}
+#myCarousel.item{
+   height: 400px;
+}
+
+
+
+.well{
+   margin: 20px 0;
+}
+.alert{
+   margin-top: 20px;
+}
+
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+.panel-heading img {
+   height: 400px;
+   width: 100%;
+}
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+   
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+   
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+   
+}
+.foot a img{
+   text-align: center;
+   margin-top: 50px;
+}
